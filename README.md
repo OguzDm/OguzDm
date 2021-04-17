@@ -11,8 +11,7 @@
 - 📫 How to reach me **squiretoss17@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OguzDm&show_icons=true&locale=en&layout=compact" alt="OguzDm" /></p>
 
 [![OguzDm's GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzDm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OguzDm&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
