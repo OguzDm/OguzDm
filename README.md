@@ -1,5 +1,4 @@
 <h1 align="center">Hi There 👋! I'm Oguz</h1>
-<h2 align="center">I am a senior Computer Engineering Student at Canakkale Onsekiz Mart University </h2>
 <h3 align="center">A passionate iOS developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OguzDm&label=Profile%20views&color=0e75b6&style=flat" alt="OguzDm" /> </p>
